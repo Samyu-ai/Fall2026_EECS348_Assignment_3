@@ -6,12 +6,12 @@ Brief Description: C++ object-oriented program that prioritizes a CEO's emails u
 Inputs: A test file containing EMAIL, NEXT, READ, and COUNT commands.
 Outputs: Terminal output showing the unread email count and the next email to read.
 Collaborators: Google Gemini and Anthropic Claude were used as GenAI collaborators.
-               The submitted program is an improved version based primarily on Claude's
-               generated design, with modifications by the author.
+               The submitted program is an improved version based on Claude's
+               generated design, with modifications by me.
 Other Sources: EECS 348 Assignment 3 instructions and rubric. No external code websites used.
-Author: Shashank Aitha
-Creation Date: September 29, 2026
-Revision Date: September 29, 2026
+Author: Samyu Aitha
+Creation Date: September 28, 2026
+Revision Date: October 1st, 2026
 Revisions: Corrected output formatting, simplified priority comparison, improved parsing,
            added required prolog/source attribution, and added detailed comments.
 */
